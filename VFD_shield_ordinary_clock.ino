@@ -10,7 +10,7 @@
 
     T 1431472660
 
-    Sets the date and time to 2015-05-12 23:17:40.
+    Sets the date and time to 2020-10-01 23:17:40.
 
     See also: http://www.epochconverter.com/
 
@@ -19,7 +19,7 @@
 
     S 2015 07 21 16 35 48
 
-    Sets the date and time to 2015-07-21 16:35:48.
+    Sets the date and time to 2020-10-01 16:35:48.
 
   - Command 'D': Set dimming value for the LEDs. Valid values are 0..8. O means LEDs are
     off, 8 means LEDs are fully on. For example:
